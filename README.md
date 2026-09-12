@@ -1,6 +1,6 @@
 # SOARRSO CubeSat OBC
 
-![SOARRSO CubeSat OBC](SOARRSO_CubeSat_OBC_Assets/soarrso_wordmark.png)
+
 
 **STM32H753 on-board computer firmware and hardware for the SOARRSO CubeSat.**
 
