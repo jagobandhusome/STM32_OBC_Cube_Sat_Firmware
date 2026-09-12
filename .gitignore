@@ -1,0 +1,23 @@
+SOARRSO_CubeSat_OBC_Firmware/Debug/*.elf
+SOARRSO_CubeSat_OBC_Firmware/Debug/*.bin
+SOARRSO_CubeSat_OBC_Firmware/Debug/*.hex
+SOARRSO_CubeSat_OBC_Firmware/Debug/*.list
+SOARRSO_CubeSat_OBC_Firmware/Debug/*.map
+SOARRSO_CubeSat_OBC_Firmware/Debug/*.su
+SOARRSO_CubeSat_OBC_Firmware/Debug/*.o
+SOARRSO_CubeSat_OBC_Firmware/Release/
+*.bak
+*.code-workspace
+.DS_Store
+Thumbs.db
+*.docx
+*.doc
+*.xlsx
+*.xls
+*.pdf
+~$*
+SOARRSO_CubeSat_OBC_Board_Manual.docx
+
+# Keep only the repository root README
+**/README.md
+!/README.md
