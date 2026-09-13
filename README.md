@@ -1,6 +1,5 @@
 # CubeSat OBC
 
-![CubeSat OBC](CubeSat_OBC_Assets/wordmark.png)
 
 **STM32H753 on-board computer firmware and hardware for a CubeSat.**
 
